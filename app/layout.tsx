@@ -33,6 +33,10 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link href="https://api.fontshare.com/v2/css?f[]=general-sans@1&display=swap" rel="stylesheet" />
+          <link
+    href="https://fonts.googleapis.com/css2?family=DotGothic16&display=swap"
+    rel="stylesheet"
+  />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${doto.variable} antialiased`}
