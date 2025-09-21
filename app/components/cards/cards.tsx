@@ -39,7 +39,7 @@ export default function WorkSection() {
             alt="Jazmin Wong Portfolio"
             className="w-full h-64 md:min-h-[70vh] object-cover rounded-lg"
           />
-          <image src=""/>
+         
           <div className="p-6 text-white">
             <div className="flex justify-between items-center mb-2">
               <h3 className="font-semibold">911</h3>
