@@ -24,7 +24,7 @@ export default function WorkSection() {
               <span className="text-sm font-semibold">DONATION</span>
             </div>
 <div className="overflow-hidden whitespace-nowrap">
-  <p className="inline-block text-sm text-gray-300 animate-marquee">
+  <p className="inline-block text-sm text-gray-300 animate-marquee font-[var(--font-doto)]">
     AWS, VERCEL, STRIPE, VOICE & TONE, UI, UX, NEXT.JS, TAILWIND CSS, AWS, VERCEL, STRIPE, VOICE & TONE, UI, UX, NEXT.JS, TAILWIND CSS
   </p>
 </div>
