@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <main className="p-2">
+      <main className="p-0">
         <Hero />
         <Cards />
       </main>

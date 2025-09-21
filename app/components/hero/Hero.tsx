@@ -6,7 +6,7 @@ export default function Hero() {
 <section className="w-full min-h-[80vh] relative flex flex-col items-center justify-center bg-white px-8 overflow-hidden">
   {/* Background Video */}
   <video
-    className="absolute top-0 left-0 w-full h-full object-cover z-0"
+    className="absolute top-0 left-0 rounded w-full h-full object-cover z-0"
     autoPlay
     loop
     muted

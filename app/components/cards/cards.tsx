@@ -20,8 +20,8 @@ export default function WorkSection() {
           />
           <div className="p-6 text-white">
             <div className="flex justify-between items-center mb-2">
-              <h3 className="font-semibold">FREE GAZA PALESTINE</h3>
-              <span className="text-sm font-semibold">DONATION APP</span>
+              <h3 className="font-semibold">FREE GAZA</h3>
+              <span className="text-sm font-semibold">DONATION</span>
             </div>
 <div className="overflow-hidden whitespace-nowrap">
   <p className="inline-block text-sm text-gray-300 animate-marquee">
