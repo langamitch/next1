@@ -3,7 +3,7 @@
 
 export default function Navbar() {
   return (
-    <nav className="w-full bg-white top-0 left-0  fixed z-999">
+    <nav className="w-full bg-transparent top-0 left-0  fixed z-999">
       <div className="max-w-6xl mx-auto flex items-center justify-between py-4 px-4 ">
         {/* Left section */}
         <div className="flex items-center w-full justify-between text-sm">
